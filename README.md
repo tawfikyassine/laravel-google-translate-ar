@@ -21,7 +21,7 @@ Now all translations will use your custom api.
 
 ## installation
 ```console
-composer require tanmuhittin/laravel-google-translate
+composer require tanmuhittin/laravel-google-translate-ar
 php artisan vendor:publish --provider="Tanmuhittin\LaravelGoogleTranslate\LaravelGoogleTranslateServiceProvider"
 ```
 
